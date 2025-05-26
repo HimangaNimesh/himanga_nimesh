@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/himanga_nimesh/static/css/main.81462612.css",
-    "main.js": "/himanga_nimesh/static/js/main.34cb3450.js",
+    "main.js": "/himanga_nimesh/static/js/main.edbf9280.js",
     "static/js/787.ea155181.chunk.js": "/himanga_nimesh/static/js/787.ea155181.chunk.js",
     "static/media/fuel1.png": "/himanga_nimesh/static/media/fuel1.c4827b599645bc866950.png",
     "static/media/ndtChat.png": "/himanga_nimesh/static/media/ndtChat.fe2af457fae9b01a4e52.png",
@@ -11,11 +11,11 @@
     "static/media/hima.jpeg": "/himanga_nimesh/static/media/hima.6b53bc993823a334bbb8.jpeg",
     "index.html": "/himanga_nimesh/index.html",
     "main.81462612.css.map": "/himanga_nimesh/static/css/main.81462612.css.map",
-    "main.34cb3450.js.map": "/himanga_nimesh/static/js/main.34cb3450.js.map",
+    "main.edbf9280.js.map": "/himanga_nimesh/static/js/main.edbf9280.js.map",
     "787.ea155181.chunk.js.map": "/himanga_nimesh/static/js/787.ea155181.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.81462612.css",
-    "static/js/main.34cb3450.js"
+    "static/js/main.edbf9280.js"
   ]
 }
