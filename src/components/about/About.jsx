@@ -14,13 +14,12 @@ const About = () => {
           </div>
          </div>
          <div className="about__content">
-          <p>I'm a self-driven full-stack JavaScript developer with a solid
-              foundation from the Institute of Technology, University of
-              Moratuwa. My expertise spans web and mobile development,
-              complemented by a flair for UI/UX design. With a proactive
-              attitude and a knack for problem-solving, I am excited to
-              embark on new challenges.</p>
-          <p>I have completed a Software Engineering Internship at Telzee Software International.</p>
+          <p>Motivated and detail-oriented software engineer with hands-on experience in designing and
+developing scalable web applications. Proficient in modern JavaScript frameworks such as React,
+Next.js, and Nest.js, with a solid grasp of both frontend and backend development. Skilled at
+collaborating in agile teams, transforming UI/UX designs into responsive interfaces, and integrating
+robust backend services. Eager to take on new challenges and contribute to innovative projects in
+dynamic tech environments.</p>
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
 
          </div>
