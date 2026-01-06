@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/himanga_nimesh/static/css/main.bbe2e5b6.css",
-    "main.js": "/himanga_nimesh/static/js/main.5e7ddc8a.js",
+    "main.js": "/himanga_nimesh/static/js/main.fa0b4399.js",
     "static/js/787.ea155181.chunk.js": "/himanga_nimesh/static/js/787.ea155181.chunk.js",
     "static/media/fuel1.png": "/himanga_nimesh/static/media/fuel1.c4827b599645bc866950.png",
     "static/media/ndtChat.png": "/himanga_nimesh/static/media/ndtChat.fe2af457fae9b01a4e52.png",
@@ -11,11 +11,11 @@
     "static/media/HimangaNimesh.pdf": "/himanga_nimesh/static/media/HimangaNimesh.b4ea286457a07a2d013f.pdf",
     "index.html": "/himanga_nimesh/index.html",
     "main.bbe2e5b6.css.map": "/himanga_nimesh/static/css/main.bbe2e5b6.css.map",
-    "main.5e7ddc8a.js.map": "/himanga_nimesh/static/js/main.5e7ddc8a.js.map",
+    "main.fa0b4399.js.map": "/himanga_nimesh/static/js/main.fa0b4399.js.map",
     "787.ea155181.chunk.js.map": "/himanga_nimesh/static/js/787.ea155181.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bbe2e5b6.css",
-    "static/js/main.5e7ddc8a.js"
+    "static/js/main.fa0b4399.js"
   ]
 }
